@@ -138,3 +138,168 @@ http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 http://127.0.0.1:6878/ace/getstream?id=71e9e4c66a271ff58beb76792e01eeb6a1dde746
 #EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080
 http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
+
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="#0 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="MOVISTAR",#0 HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4829
+#EXTINF:-1 tvg-id="#0 HD" tvg-name="#0 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="MOVISTAR",#0 HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4830
+#EXTINF:-1 tvg-id="#0 HD" tvg-name="#0 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="MOVISTAR",#0 SD
+http://tribaliptv.com:8080/Gustavo/123456/4831
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="MOVISTAR SERIES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="MOVISTAR",MOVISTAR SERIES HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4832
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="MOVISTAR SERIES HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="MOVISTAR",MOVISTAR SERIES HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4833
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="MOVISTAR SERIES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="MOVISTAR",MOVISTAR SERIES SD
+http://tribaliptv.com:8080/Gustavo/123456/4834
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="MOVISTAR SERIES 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="MOVISTAR",MOVISTAR SERIES 2 HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4835
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="MOVISTAR SERIES 2 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="MOVISTAR",MOVISTAR SERIES 2 HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4836
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="MOVISTAR SERIES 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="MOVISTAR",MOVISTAR SERIES 2 SD
+http://tribaliptv.com:8080/Gustavo/123456/4837
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="MOVISTAR LA RESISTENCIA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/RESIST.png" group-title="MOVISTAR",MOVISTAR LA RESISTENCIA HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4838
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="MOVISTAR LA RESISTENCIA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/RESIST.png" group-title="MOVISTAR",MOVISTAR LA RESISTENCIA HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4839
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="MOVISTAR LA RESISTENCIA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/RESIST.png" group-title="MOVISTAR",MOVISTAR LA RESISTENCIA SD
+http://tribaliptv.com:8080/Gustavo/123456/4840
+#EXTINF:-1 tvg-id="M+ LOS OSCAR" tvg-name="MOVISTAR OSCARS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MOSCAR.png" group-title="MOVISTAR",MOVISTAR OSCARS HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4841
+#EXTINF:-1 tvg-id="M+ LOS OSCAR" tvg-name="MOVISTAR OSCARS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MOSCAR.png" group-title="MOVISTAR",MOVISTAR OSCARS SD
+http://tribaliptv.com:8080/Gustavo/123456/4842
+#EXTINF:-1 tvg-id="" tvg-name="ALL FLAMENCO" tvg-logo="https://institutoculturagitana.es/wp-content/uploads/2022/01/descarga.png" group-title="MOVISTAR",ALL FLAMENCO
+http://tribaliptv.com:8080/Gustavo/123456/11192
+#EXTINF:-1 tvg-id="M. ACCION HD" tvg-name="MOVISTAR ACCION HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="MOVISTAR",MOVISTAR ACCION HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4843
+#EXTINF:-1 tvg-id="M. ACCION HD" tvg-name="MOVISTAR ACCION HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="MOVISTAR",MOVISTAR ACCION HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4844
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="MOVISTAR ACCION SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="MOVISTAR",MOVISTAR ACCION SD
+http://tribaliptv.com:8080/Gustavo/123456/4845
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name="MOVISTAR ESTRENOS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="MOVISTAR",MOVISTAR ESTRENOS HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4846
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR ESTRENOS HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="MOVISTAR",MOVISTAR ESTRENOS HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4847
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="MOVISTAR ESTRENOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="MOVISTAR",MOVISTAR ESTRENOS SD
+http://tribaliptv.com:8080/Gustavo/123456/4848
+#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="MOVISTAR ESTRENOS 2 HD 1080P" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="MOVISTAR",MOVISTAR ESTRENOS 2 HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4849
+#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="MOVISTAR ESTRENOS 2 HD 720P" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="MOVISTAR",MOVISTAR ESTRENOS 2 HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4850
+#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="MOVISTAR ESTRENOS 2 SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="MOVISTAR",MOVISTAR ESTRENOS 2 SD
+http://tribaliptv.com:8080/Gustavo/123456/4851
+#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="MOVISTAR CLASICOS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR",MOVISTAR CLASICOS HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4852
+#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="MOVISTAR CLASICOS HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR",MOVISTAR CLASICOS HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4853
+#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="MOVISTAR CLASICOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR",MOVISTAR CLASICOS SD
+http://tribaliptv.com:8080/Gustavo/123456/4854
+#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="MOVISTAR COMEDIA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="MOVISTAR",MOVISTAR COMEDIA HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4855
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR COMEDIA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="MOVISTAR",MOVISTAR COMEDIA HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4856
+#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="MOVISTAR COMEDIA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="MOVISTAR",MOVISTAR COMEDIA SD
+http://tribaliptv.com:8080/Gustavo/123456/4857
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="MOVISTAR DRAMA 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="MOVISTAR",MOVISTAR DRAMA 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4858
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="MOVISTAR DRAMA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="MOVISTAR",MOVISTAR DRAMA HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4859
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="MOVISTAR DRAMA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="MOVISTAR",MOVISTAR DRAMA SD
+http://tribaliptv.com:8080/Gustavo/123456/4860
+#EXTINF:-1 tvg-id="M. Cine Español" tvg-name="MOVISTAR CINE Ñ HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="MOVISTAR",MOVISTAR CINE Ñ HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4861
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CINE Ñ SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="MOVISTAR",MOVISTAR CINE Ñ SD
+http://tribaliptv.com:8080/Gustavo/123456/4862
+#EXTINF:-1 tvg-id="M. Fest" tvg-name="MOVISTAR FEST HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" group-title="MOVISTAR",MOVISTAR FEST HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4863
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="MOVISTAR",FOX HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4864
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="MOVISTAR",FOX HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4865
+#EXTINF:-1 tvg-id="" tvg-name="FOX SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="MOVISTAR",FOX SD
+http://tribaliptv.com:8080/Gustavo/123456/4866
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="MOVISTAR",AXN HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4867
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD 720P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="MOVISTAR",AXN HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4868
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN SD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="MOVISTAR",AXN SD
+http://tribaliptv.com:8080/Gustavo/123456/4869
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="MOVISTAR",AXN WHITE HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4870
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="MOVISTAR",AXN WHITE HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4871
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="MOVISTAR",AXN WHITE SD
+http://tribaliptv.com:8080/Gustavo/123456/4872
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="MOVISTAR",TNT HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4873
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="MOVISTAR",TNT HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4874
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="MOVISTAR",TNT SD
+http://tribaliptv.com:8080/Gustavo/123456/4875
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="MOVISTAR",COMEDY CENTRAL HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4876
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="MOVISTAR",COMEDY CENTRAL HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4877
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="MOVISTAR",COMEDY CENTRAL SD
+http://tribaliptv.com:8080/Gustavo/123456/4878
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="MOVISTAR",CALLE 13 HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4879
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="MOVISTAR",CALLE 13 HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4880
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="MOVISTAR",CALLE 13 SD
+http://tribaliptv.com:8080/Gustavo/123456/4881
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="MOVISTAR",COSMO HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4882
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="MOVISTAR",COSMO HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4883
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="MOVISTAR",COSMO SD
+http://tribaliptv.com:8080/Gustavo/123456/4884
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="MOVISTAR",AMC HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4885
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="MOVISTAR",AMC HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4886
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="MOVISTAR",AMC SD
+http://tribaliptv.com:8080/Gustavo/123456/4887
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="MOVISTAR",SYFY HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4888
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="MOVISTAR",SYFY HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4889
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="MOVISTAR",SYFY SD
+http://tribaliptv.com:8080/Gustavo/123456/4890
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="MOVISTAR",TCM HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4891
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="MOVISTAR",TCM HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4892
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="MOVISTAR",TCM SD
+http://tribaliptv.com:8080/Gustavo/123456/4893
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="MOVISTAR",PARAMOUNT CHANNEL
+http://tribaliptv.com:8080/Gustavo/123456/4894
+#EXTINF:-1 tvg-id="BOM" tvg-name="BOM CINE HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/2560px-Logo-bom.svg.png" group-title="MOVISTAR",BOM CINE HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4895
+#EXTINF:-1 tvg-id="BOM" tvg-name="BOM CINE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/2560px-Logo-bom.svg.png" group-title="MOVISTAR",BOM CINE SD
+http://tribaliptv.com:8080/Gustavo/123456/4896
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="MOVISTAR",SOMOS HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4897
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="MOVISTAR",XTRM HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4898
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="MOVISTAR",SUNDANCE HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4899
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="MOVISTAR",SUNDANCE SD
+http://tribaliptv.com:8080/Gustavo/123456/4900
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="MOVISTAR",HOLLYWOOD HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4901
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="MOVISTAR",HOLLYWOOD HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4902
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="MOVISTAR",HOLLYWOOD SD
+http://tribaliptv.com:8080/Gustavo/123456/4903
+#EXTINF:-1 tvg-id="dark.es" tvg-name="DARK RED HD 1080P" tvg-logo="https://vfes-images.ott.kaltura.com/16dca77dcb2d432ba7bfb4c6eda3d23f_288X162.png" group-title="MOVISTAR",DARK RED HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4904
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="MOVISTAR",ALQUILER 1 HD
+http://tribaliptv.com:8080/Gustavo/123456/4905
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="MOVISTAR",ALQUILER 2 HD
+http://tribaliptv.com:8080/Gustavo/123456/4906
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="MOVISTAR",ALQUILER 3 HD
+http://tribaliptv.com:8080/Gustavo/123456/4907
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="MOVISTAR",ALQUILER 4 HD
+http://tribaliptv.com:8080/Gustavo/123456/4908
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 5 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="MOVISTAR",ALQUILER 5 HD
+http://tribaliptv.com:8080/Gustavo/123456/4909
